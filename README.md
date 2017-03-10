@@ -1,12 +1,14 @@
 # Sample
 
+#####----from wequick/Small
+
 This is for Small user.
 
 ## Getting Started
 
 ### Step 1. Clone Small (下载源码)
     > cd [你要放Small的目录]
-    > git clone https://github.com/wequick/Small.git
+    > git clone https://github.com/Jusenr-RongSnow/Small_Sample.git
 
 > 强烈建议使用git命令行，方便更新维护。Windows用户入口：[Git for Windows][git-win]<br/>
 > 后续更新可以使用命令：git pull origin master
