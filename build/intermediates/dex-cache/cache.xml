@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\ASProjects\Sample\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="ec75036c3c52e451d0cde50a5aedaf5fd32354a0">
+        <dex dex="C:\Users\Administrator\ASProjects\Sample\app\build\intermediates\transforms\dex\wequick\debug\folders\1000\10\com.android.support-recyclerview-v7-23.4.0_de47f52f921f625836b5da9c55757e6343ab3b39\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\ASProjects\Sample\app\build\intermediates\incremental-classes\wequick\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="a66ace137c647d2a709f25e2c2d6301a8c4b67e5">
+        <dex dex="C:\Users\Administrator\ASProjects\Sample\app\build\intermediates\transforms\dex\wequick\debug\folders\1000\10\instant-run-bootstrap_757966d62ada9bfb029b3821744ad89974dcaa4b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\ASProjects\Sample\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="C:\Users\Administrator\ASProjects\Sample\app\build\intermediates\transforms\dex\wequick\debug\folders\1000\10\com.android.support-animated-vector-drawable-23.4.0_a41b5d830b2d7716e54297cd5d786ad072d0f1ac\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\ASProjects\Sample\app\build\intermediates\exploded-aar\net.wequick.small\small\1.1.0-alpha2\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="db421221c41c04135ccb7cb8aef883497c5ae010">
+        <dex dex="C:\Users\Administrator\ASProjects\Sample\app\build\intermediates\transforms\dex\wequick\debug\folders\1000\10\net.wequick.small-small-1.1.0-alpha2_4efcee26a2d48747f5055151d686970c4ebb9da0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\ASProjects\Sample\app\build\intermediates\exploded-aar\com.android.support\design\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="5326d9a850d491714fef8cbfaa9ea3416f0bf0d2">
+        <dex dex="C:\Users\Administrator\ASProjects\Sample\app\build\intermediates\transforms\dex\wequick\debug\folders\1000\10\com.android.support-design-23.4.0_6cfdc727a4d9b8612d3611168b4662b2f012db56\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\ASProjects\Sample\lib.utils\build\intermediates\transforms\smallStripped\release\jars\1\2\lib.utils-mylib.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="bb7593f15edfdd51537242dd4fe1c10886b2652d">
+        <dex dex="C:\Users\Administrator\ASProjects\Sample\lib.utils\build\intermediates\pre-dexed\release\lib.utils-mylib_423a073164a8a01a012289734fbdc9b2435ecf27.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\ASProjects\Sample\app.mine\build\intermediates\transforms\smallStripped\release\jars\1\4\jni_plugin-unspecified.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="d25141d345690a039f580e12dcb4eb2c7d5ee1d5">
+        <dex dex="C:\Users\Administrator\ASProjects\Sample\app.mine\build\intermediates\pre-dexed\release\jni_plugin-unspecified_b2b4d7c500417b2af0623dc163d0bf683521b776.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\AndroidSdk\extras\android\m2repository\com\android\support\support-annotations\23.4.0\support-annotations-23.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="C:\Users\Administrator\ASProjects\Sample\app\build\intermediates\transforms\dex\wequick\debug\folders\1000\10\support-annotations-23.4.0_9bf3ebe30ca18cde95765a97af8d77a6544fca79\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\ASProjects\Sample\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\libs\internal_impl-23.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="C:\Users\Administrator\ASProjects\Sample\app\build\intermediates\transforms\dex\wequick\debug\folders\1000\10\internal_impl-23.4.0_8e9081fdac734c83c0badc396582f938ad88a432\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\ASProjects\Sample\app\build\intermediates\incremental-runtime-classes\wequick\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="8a847a927ac07a68e55238dc945851c5e817b5a8">
+        <dex dex="C:\Users\Administrator\ASProjects\Sample\app\build\intermediates\transforms\dex\wequick\debug\folders\1000\10\instant-run_949ecb7c86148a2441f4a413e98e264ca9abe026\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\ASProjects\Sample\lib.analytics\build\intermediates\transforms\smallStripped\release\jars\1\10\analytics-6.0.1-aab9085bca0c26dcb9cb11837a5f5e22cc102a5e.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="aab9085bca0c26dcb9cb11837a5f5e22cc102a5e">
+        <dex dex="C:\Users\Administrator\ASProjects\Sample\lib.analytics\build\intermediates\pre-dexed\release\analytics-6.0.1-aab9085bca0c26dcb9cb11837a5f5e22cc102a5e_bd14d51d565f925a6e4e834fe7ab3ca40644db59.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\ASProjects\Sample\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="C:\Users\Administrator\ASProjects\Sample\app\build\intermediates\transforms\dex\wequick\debug\folders\1000\10\com.android.support-support-v4-23.4.0_2451c79ac333eff6c0fb7f18fe941fd7d297031a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\ASProjects\Sample\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="C:\Users\Administrator\ASProjects\Sample\app\build\intermediates\transforms\dex\wequick\debug\folders\1000\10\com.android.support-appcompat-v7-23.4.0_facbd7e1da7643466e44e60bea02dbd8221eeab9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\ASProjects\Sample\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="C:\Users\Administrator\ASProjects\Sample\app\build\intermediates\transforms\dex\wequick\debug\folders\1000\10\com.android.support-support-vector-drawable-23.4.0_6f4ce53ba32f9a769e612de1c8ab9ff34e463236\classes.dex" />
+    </item>
+
+</items>

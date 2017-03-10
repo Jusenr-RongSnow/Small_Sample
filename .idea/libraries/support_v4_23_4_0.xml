@@ -1,0 +1,39 @@
+<component name="libraryTable">
+  <library name="support-v4-23.4.0">
+    <ANNOTATIONS>
+      <root url="jar://$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/annotations.zip!/" />
+      <root url="jar://$PROJECT_DIR$/app.main/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/annotations.zip!/" />
+      <root url="jar://$PROJECT_DIR$/lib.analytics/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/annotations.zip!/" />
+      <root url="jar://$PROJECT_DIR$/app+stub/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/annotations.zip!/" />
+      <root url="jar://$PROJECT_DIR$/app.mine/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/annotations.zip!/" />
+      <root url="jar://$PROJECT_DIR$/lib.utils/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/annotations.zip!/" />
+      <root url="jar://$PROJECT_DIR$/app.detail/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/annotations.zip!/" />
+      <root url="jar://$PROJECT_DIR$/jni_plugin/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/annotations.zip!/" />
+      <root url="jar://$PROJECT_DIR$/lib.style/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/annotations.zip!/" />
+      <root url="jar://$PROJECT_DIR$/app.home/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/annotations.zip!/" />
+      <root url="jar://$PROJECT_DIR$/app.ok-if-stub/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/annotations.zip!/" />
+      <root url="jar://$PROJECT_DIR$/web.about/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/annotations.zip!/" />
+    </ANNOTATIONS>
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/res" />
+      <root url="jar://$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/libs/internal_impl-23.4.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://D:/AndroidSdk/extras/android/m2repository/com/android/support/support-v4/23.4.0/support-v4-23.4.0-sources.jar!/" />
+      <root url="jar://D:/AndroidSdk/extras/android/m2repository/com/android/support/support-v4/23.4.0/support-v4-23.4.0-sources.jar!/" />
+      <root url="jar://D:/AndroidSdk/extras/android/m2repository/com/android/support/support-v4/23.4.0/support-v4-23.4.0-sources.jar!/" />
+      <root url="jar://D:/AndroidSdk/extras/android/m2repository/com/android/support/support-v4/23.4.0/support-v4-23.4.0-sources.jar!/" />
+      <root url="jar://D:/AndroidSdk/extras/android/m2repository/com/android/support/support-v4/23.4.0/support-v4-23.4.0-sources.jar!/" />
+      <root url="jar://D:/AndroidSdk/extras/android/m2repository/com/android/support/support-v4/23.4.0/support-v4-23.4.0-sources.jar!/" />
+      <root url="jar://D:/AndroidSdk/extras/android/m2repository/com/android/support/support-v4/23.4.0/support-v4-23.4.0-sources.jar!/" />
+      <root url="jar://D:/AndroidSdk/extras/android/m2repository/com/android/support/support-v4/23.4.0/support-v4-23.4.0-sources.jar!/" />
+      <root url="jar://D:/AndroidSdk/extras/android/m2repository/com/android/support/support-v4/23.4.0/support-v4-23.4.0-sources.jar!/" />
+      <root url="jar://D:/AndroidSdk/extras/android/m2repository/com/android/support/support-v4/23.4.0/support-v4-23.4.0-sources.jar!/" />
+      <root url="jar://D:/AndroidSdk/extras/android/m2repository/com/android/support/support-v4/23.4.0/support-v4-23.4.0-sources.jar!/" />
+      <root url="jar://D:/AndroidSdk/extras/android/m2repository/com/android/support/support-v4/23.4.0/support-v4-23.4.0-sources.jar!/" />
+      <root url="jar://D:/AndroidSdk/extras/android/m2repository/com/android/support/support-v4/23.4.0/support-v4-23.4.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
